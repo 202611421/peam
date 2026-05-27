@@ -1,9 +1,0 @@
-streamlit
-numpy
-pandas
-scikit-learn
-joblib
-matplotlib
-kagglehub
-koreanize-matplotlib
-setuptools
